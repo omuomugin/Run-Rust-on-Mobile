@@ -1,0 +1,11 @@
+[target.aarch64-linux-android]
+ar = "/Users/01027754/.ghq/github.com/omuomugin/greetings/NDK/arm64/bin/aarch64-linux-android-ar"
+linker = "/Users/01027754/.ghq/github.com/omuomugin/greetings/NDK/arm64/bin/aarch64-linux-android28-clang"
+
+[target.armv7-linux-androideabi]
+ar = "/Users/01027754/.ghq/github.com/omuomugin/greetings/NDK/arm/bin/arm-linux-androideabi-ar"
+linker = "/Users/01027754/.ghq/github.com/omuomugin/greetings/NDK/arm/bin/armv7a-linux-androideabi28-clang"
+
+[target.i686-linux-android]
+ar = "/Users/01027754/.ghq/github.com/omuomugin/greetings/NDK/x86/bin/i686-linux-android-ar"
+linker = "/Users/01027754/.ghq/github.com/omuomugin/greetings/NDK/x86/bin/i686-linux-android28-clang"
